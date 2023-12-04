@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ben1Mo
-- 👀 I’m interested in AI (Deep Learning, Deep Reinforcement Learning, MARL and Self-Supervised Learning), C++, Python, Linux, some webdev doesn't hurt.
+- 👀 I’m interested in AI (Machine/Deep Learning, Computer Vision, Deep Reinforcement Learning, MARL and Self-Supervised Learning), C++, Python, Linux, some webdev doesn't hurt.
 - 🌱 I’m currently learning Multi Agent Reinforecement Learning (MARL), Deep Learning for Anomaly Detection and a bit conerning DevOps, Monitoring and Configuration Automation.
 - 💞️ I’m looking to collaborate on MARL, DL, DAD projects, other topics and open-source projects might be interesting as well...
 - 📫 How to reach me: benchatm@gmail.com
